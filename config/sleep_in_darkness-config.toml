@@ -1,0 +1,4 @@
+#At this light level and lower you can sleep.
+#Range: 0 ~ 15
+highestAllowedLightLevel = 6
+

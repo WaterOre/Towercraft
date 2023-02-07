@@ -1,0 +1,6 @@
+
+#Client tweaks
+[client]
+	#If Powder Snow should drop snow particles if there is no block below.
+	"Powder Snow Particles" = true
+

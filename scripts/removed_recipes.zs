@@ -1,0 +1,10 @@
+craftingTable.removeByName("minecraft:beetroot_soup");
+craftingTable.removeByName("minecraft:rabbit_stew_from_brown_mushroom");
+craftingTable.removeByName("minecraft:rabbit_stew_from_red_mushroom");
+craftingTable.removeByName("minecraft:mushroom_stew");
+craftingTable.removeByName("wstweaks:blaze_blade");
+craftingTable.removeByName("wstweaks:lava_blade");
+craftingTable.removeByName("fastfooddelight:ice_cream");
+craftingTable.removeByName("fastfooddelight:chocolate_ice_cream");
+craftingTable.removeByName("fastfooddelight:sweet_berry_ice_cream");
+craftingTable.removeByName("fastfooddelight:fruit_ice_cream");

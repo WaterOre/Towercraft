@@ -1,0 +1,16 @@
+#"Scale the mini-map to a given % of the height of your screen.
+#Range: 0 ~ 100
+forceMiniMapScaling = 35
+#If 'true', the Mini-Map of the Active Map will be drawn on the HUD while the Atlas is active
+drawMiniMapHUD = true
+#Set to any of 'Upper'/'Lower' & 'Left'/'Right' to control anchor position of mini-map
+#Allowed Values: UPPERRIGHT, UPPERLEFT, LOWERRIGHT, LOWERLEFT
+minimapAchoring = "UPPERLEFT"
+#Enter an integer which will offset the mini-map horizontally
+minimapHorizontalOffset = 0
+#Enter an integer which will offset the mini-map vertically
+minimapVerticalOffset = 0
+#Scale the world-map to a given % of the height of your screen.
+#Range: 0 ~ 100
+forceWorldMapScaling = 90
+

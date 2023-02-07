@@ -1,0 +1,10 @@
+
+#Vanilla gameplay tweaks
+[tweaks]
+	#Nerfs Boats ability to go extremely fast when on ice and other splippery blocks (off by default).
+	"Ice Boat Nerf" = false
+	#Tall Birch Trees will generate branches growing out the side of the tree.
+	"Birch Branches" = true
+	#All skeletons that spawn in snowy biomes are replaced with strays
+	"Strays Only" = true
+

@@ -1,0 +1,71 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 28, 2022, 2:58:43 PM
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- sliceanddice:flowing_fertilizer (from sliceanddice-2.0.0.jar)
+- sliceanddice:fertilizer (from sliceanddice-2.0.0.jar)
+- create_confectionery:black_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_black_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:white_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_white_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:hot_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_hot_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:caramel (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_caramel (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:ruby_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_ruby_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+
+#forge:milk
+- minecraft:milk? (from forge-1.19.2-43.2.0-universal.jar)
+- minecraft:flowing_milk? (from forge-1.19.2-43.2.0-universal.jar)
+
+#forge:tea
+- create:flowing_tea (from create-1.19.2-0.5.0.g.jar)
+- create:tea (from create-1.19.2-0.5.0.g.jar)
+
+#sliceanddice:moisturizing
+- minecraft:water (from sliceanddice-2.0.0.jar)
+
+#twilightforest:fire_jet_fuel
+- #minecraft:lava (from twilightforest-1.19.2-4.2.1468-universal.jar)
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#create_enchantment_industry:printer_input
+- create_enchantment_industry:flowing_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar)
+- create_enchantment_industry:experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar)
+- #forge:ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar)
+
+#sliceanddice:fertilizer
+- sliceanddice:flowing_fertilizer (from sliceanddice-2.0.0.jar)
+- sliceanddice:fertilizer (from sliceanddice-2.0.0.jar)
+
+#create:bottomless/deny
+
+#create_enchantment_industry:blaze_enchanter_input
+- create_enchantment_industry:flowing_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar)
+- create_enchantment_industry:experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar)
+- create_enchantment_industry:flowing_hyper_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar)
+- create_enchantment_industry:hyper_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar)
+
+#forge:chocolate
+- create:flowing_chocolate (from create-1.19.2-0.5.0.g.jar)
+- create:chocolate (from create-1.19.2-0.5.0.g.jar)
+
+#create:bottomless/allow
+- minecraft:water (from create-1.19.2-0.5.0.g.jar)
+- minecraft:lava (from create-1.19.2-0.5.0.g.jar)
+
+#forge:honey
+- create:flowing_honey (from create-1.19.2-0.5.0.g.jar)
+- create:honey (from create-1.19.2-0.5.0.g.jar)
+
+#sliceanddice:burning
+- minecraft:lava (from sliceanddice-2.0.0.jar)
+
+#forge:ink
+- create_enchantment_industry:flowing_ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar)
+- create_enchantment_industry:ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar)

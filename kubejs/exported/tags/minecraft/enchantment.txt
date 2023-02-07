@@ -1,0 +1,12 @@
+To refresh this file, delete it and run /reload command again! Last updated: Dec 28, 2022, 2:58:43 PM
+
+#allurement:unusable_on_horse_armor
+- minecraft:aqua_affinity (from allurement-1.19-3.0.0.jar)
+- allurement:alleviating (from allurement-1.19-3.0.0.jar)
+- allurement:vengeance (from allurement-1.19-3.0.0.jar)
+
+#create_enchantment_industry:hyper_enchantable
+
+#twilightforest:phantom_armor_banned_enchants
+- minecraft:vanishing_curse (from twilightforest-1.19.2-4.2.1468-universal.jar)
+- minecraft:binding_curse (from twilightforest-1.19.2-4.2.1468-universal.jar)

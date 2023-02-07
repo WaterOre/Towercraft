@@ -1,0 +1,15 @@
+#Controls location where mini-map displays. Any of: 'HANDS', 'HOTBAR', or 'INVENTORY'.
+#Allowed Values: HANDS, HOTBAR, INVENTORY
+activationLocation = "HOTBAR"
+#The maximum number of Maps (Filled & Empty combined) allowed to be inside an Atlas. (-1 to disable)
+#Range: 0 ~ 99999
+maxMapCount = 512
+#If 'true', Atlases will be able to store Empty Maps and auto-fill them as you explore.
+enableEmptyMapEntryAndFill = true
+#Controls how many usable Maps are added when you add a single Map to the Atlas
+#Range: 1 ~ 99
+mapEntryValueMultiplier = 1
+#Controls how many free Empty Maps you get for 'activating' an Inactive Atlas
+#Range: 1 ~ 99
+pityActivationMapCount = 9
+

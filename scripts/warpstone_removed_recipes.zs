@@ -1,0 +1,10 @@
+craftingTable.removeByName("waystones:warp_stone");
+craftingTable.removeByName("waystones:waystone");
+craftingTable.removeByName("waystones:mossy_waystone");
+craftingTable.removeByName("waystones:sandy_waystone");
+craftingTable.removeByName("waystones:sharestone");
+craftingTable.removeByName("waystones:warp_dust");
+craftingTable.removeByName("waystones:return_scroll");
+craftingTable.removeByName("waystones:bound_scroll");
+craftingTable.removeByName("waystones:warp_scroll");
+craftingTable.removeByName("waystones:portstone");

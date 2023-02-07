@@ -1,0 +1,9 @@
+
+[pumpkin_carving]
+	#Pumpkin carving mode
+	#Allowed Values: NONE, BOTH, GUI, MANUAL
+	pumpkin_carve_mode = "BOTH"
+	#Jack o Lantern carving mode
+	#Allowed Values: NONE, BOTH, GUI, MANUAL
+	jack_o_lantern_carve_mode = "NONE"
+
